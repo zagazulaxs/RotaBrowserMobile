@@ -44,3 +44,15 @@ Uygulamayı kendi şirketinizin amblemiyle (.apk ikonu) müşterilerinize sunmak
 
 ---
 *Bu proje, kapalı devre web sistemlerini profesyonel bir mobil deneyimle sunmak isteyen şirketler ve geliştiriciler için tasarlanmıştır.*
+
+
+<img width="862" height="385" alt="Screenshot_7" src="https://github.com/user-attachments/assets/18dcb876-0666-49f6-b543-164a163bb0c7" />
+
+
+<img width="406" height="835" alt="Screenshot_9" src="https://github.com/user-attachments/assets/942285f4-1054-45c2-990f-247a28c41c7c" />
+
+
+
+<img width="406" height="833" alt="Screenshot_8" src="https://github.com/user-attachments/assets/e044fe51-4d23-4271-898c-47ee0b796adf" />
+
+
